@@ -1,4 +1,0 @@
-<h1><%= @Article.title %></h1>
-<p><%= @Article.body %></p>
-<%= link_to "<< Back to Articles List", articles_path %>
-
